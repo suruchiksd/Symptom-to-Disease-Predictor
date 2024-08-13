@@ -18,15 +18,15 @@ This project is a disease prediction system that uses machine learning algorithm
 Ensure you have the following installed:
 
 - Python 3.x
-- Required Python libraries (listed below)
+- Required Python libraries
 
 ### Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/suruchiksd/disease-predictor.git
-   cd disease-predictor
+   git clone https://github.com/suruchiksd/Symptom-to-Disease-Predictor.git
+   cd Symptom-to-Disease-Predictor
 
 2. **Install Dependencies:**
 
