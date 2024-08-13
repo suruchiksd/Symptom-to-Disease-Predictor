@@ -25,7 +25,7 @@ Ensure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/disease-predictor.git
+   git clone https://github.com/suruchiksd/disease-predictor.git
    cd disease-predictor
 
 2. **Install Dependencies:**
